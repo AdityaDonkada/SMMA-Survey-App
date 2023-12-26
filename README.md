@@ -1,1 +1,1 @@
-Created a basic survey implementing NextJS, and Firebase specifcally the Realtime Database. But why did I create this survey? My friends and I have started a SMMA (Social Media Marketing Agency), and we are specifically looking into the Mortgage Broker Niche for clients. Now why we need the survey is to gauge what our clients want, and what we can do best to serve them. This is my first time using Firebase and I got to say, once I wrapped my head around the integration it helped the process of implementing the backend go smooth as ever. 
+
