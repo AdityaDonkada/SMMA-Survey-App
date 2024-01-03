@@ -1,5 +1,5 @@
 
-## Technology Stack
+## Technology Stack 
 
 - **⚡ Next.js 13**: A React framework for building web applications.
 - **🔥 Firebase**: A platform developed by Google for creating mobile and web applications.
